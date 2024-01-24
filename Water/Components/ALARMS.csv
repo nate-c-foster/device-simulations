@@ -1,0 +1,25 @@
+Time Interval, Browse Path, Value Source, Data Type
+0,Power_Fail/Alarm_Value,false,Boolean
+0,Power_Fail/Alarm_Delay,3,Double
+0,Power_Fail/Alarm_Enable,true,Boolean
+0,UPS_Fail/Alarm_Value,false,Boolean
+0,UPS_Fail/Alarm_Delay,3,Double
+0,UPS_Fail/Alarm_Enable,true,Boolean
+0,Intrusion/Alarm_Value,false,Boolean
+0,Intrusion/Alarm_Delay,3,Double
+0,Intrusion/Alarm_Enable,true,Boolean
+0,EStop/Alarm_Value,false,Boolean
+0,EStop/Alarm_Delay,3,Double
+0,EStop/Alarm_Enable,true,Boolean
+0,CL2_Gas_High/Alarm_Value,false,Boolean
+0,CL2_Gas_High/Alarm_Delay,3,Double
+0,CL2_Gas_High/Alarm_Enable,true,Boolean
+0,Gas_Monitor_Fault/Alarm_Value,false,Boolean
+0,Gas_Monitor_Fault/Alarm_Delay,3,Double
+0,Gas_Monitor_Fault/Alarm_Enable,true,Boolean
+0,Eye_Wash_Alarm/Alarm_Value,false,Boolean
+0,Eye_Wash_Alarm/Alarm_Delay,3,Double
+0,Eye_Wash_Alarm/Alarm_Enable,true,Boolean
+0,Sump_Level_High/Alarm_Value,false,Boolean
+0,Sump_Level_High/Alarm_Delay,3,Double
+0,Sump_Level_High/Alarm_Enable,true,Boolean
