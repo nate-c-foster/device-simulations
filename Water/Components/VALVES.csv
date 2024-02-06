@@ -1,2 +1,25 @@
 Time Interval, Browse Path, Value Source, Data Type
-0,Discrete_Valve1/Status_Open,false,Boolean
+0,Discrete_Valve1/Status_Open,TRUE,Boolean
+0,Discrete_Valve1/Status_Closed,FALSE,Boolean
+0,Discrete_Valve1/Status_Remote,TRUE,Boolean
+0,Discrete_Valve1/Status_Permissive,TRUE,Boolean
+0,Discrete_Valve1/HOA,2,Int16
+0,Discrete_Valve1/Req_Open,TRUE,Boolean
+0,Discrete_Valve1/Req_Close,FALSE,Boolean
+0,Discrete_Valve1/OOS,FALSE,Boolean
+0,Discrete_Valve1/Status_Interlock1,FALSE,Boolean
+0,Discrete_Valve1/Status_Interlock2,FALSE,Boolean
+0,Discrete_Valve1/Status_Interlock3,FALSE,Boolean
+0,Discrete_Valve1/Req_Alarm_Reset,FALSE,Boolean
+0,Discrete_Valve1/Alarm_Fail_To_Respond,FALSE,Boolean
+0,Discrete_Valve1/Alarm_Fail_To_Respond_Delay,3,Double
+0,Discrete_Valve1/Alarm_Fail_To_Respond_Enable,TRUE,Boolean
+0,Discrete_Valve1/Alarm_Fault,FALSE,Boolean
+0,Discrete_Valve1/Alarm_Fault_Delay,3,Double
+0,Discrete_Valve1/Alarm_Fault_Enable,TRUE,Boolean
+0,Discrete_Valve1/Cycles_CD,12,Int64
+0,Discrete_Valve1/Cycles_PD,23,Int64
+0,Discrete_Valve1/Cycles_CM,132,Int64
+0,Discrete_Valve1/Cycles_PM,375,Int64
+0,Discrete_Valve1/Cycles_TOT,34845,Int64
+0,Discrete_Valve1/Cycles_TOT_Reset,FALSE,Boolean
