@@ -31,6 +31,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Flow2/Min,0,Double
 0,Flow2/SIM,FALSE,Boolean
 0,Flow2/CAL,FALSE,Boolean
+0,Flow2/Alarm_HiHi_Alm,FALSE,Boolean
+0,Flow2/Alarm_HiHi_Delay,5,Double
 0,Flow2/Alarm_HiHi_Enable,TRUE,Boolean
 0,Flow2/Alarm_HiHi_SP,900,Double
 0,Flow2/Alarm_Hi_Alm,FALSE,Boolean
@@ -137,6 +139,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Level1/Min,0,Double
 0,Level1/SIM,FALSE,Boolean
 0,Level1/CAL,FALSE,Boolean
+0,Level1/Alarm_HiHi_Alm,FALSE,Boolean
+0,Level1/Alarm_HiHi_Delay,5,Double
 0,Level1/Alarm_HiHi_Enable,TRUE,Boolean
 0,Level1/Alarm_HiHi_SP,11,Double
 0,Level1/Alarm_Hi_Alm,FALSE,Boolean
@@ -156,6 +160,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Level2/Min,0,Double
 0,Level2/SIM,FALSE,Boolean
 0,Level2/CAL,FALSE,Boolean
+0,Level2/Alarm_HiHi_Alm,FALSE,Boolean
+0,Level2/Alarm_HiHi_Delay,5,Double
 0,Level2/Alarm_HiHi_Enable,TRUE,Boolean
 0,Level2/Alarm_HiHi_SP,38,Double
 0,Level2/Alarm_Hi_Alm,FALSE,Boolean
@@ -175,6 +181,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Level3/Min,0,Double
 0,Level3/SIM,FALSE,Boolean
 0,Level3/CAL,FALSE,Boolean
+0,Level3/Alarm_HiHi_Alm,FALSE,Boolean
+0,Level3/Alarm_HiHi_Delay,5,Double
 0,Level3/Alarm_HiHi_Enable,TRUE,Boolean
 0,Level3/Alarm_HiHi_SP,18,Double
 0,Level3/Alarm_Hi_Alm,FALSE,Boolean
@@ -194,6 +202,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Level4/Min,0,Double
 0,Level4/SIM,FALSE,Boolean
 0,Level4/CAL,FALSE,Boolean
+0,Level4/Alarm_HiHi_Alm,FALSE,Boolean
+0,Level4/Alarm_HiHi_Delay,5,Double
 0,Level4/Alarm_HiHi_Enable,TRUE,Boolean
 0,Level4/Alarm_HiHi_SP,28,Double
 0,Level4/Alarm_Hi_Alm,FALSE,Boolean
@@ -213,6 +223,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Level5/Min,0,Double
 0,Level5/SIM,FALSE,Boolean
 0,Level5/CAL,FALSE,Boolean
+0,Level5/Alarm_HiHi_Alm,FALSE,Boolean
+0,Level5/Alarm_HiHi_Delay,5,Double
 0,Level5/Alarm_HiHi_Enable,TRUE,Boolean
 0,Level5/Alarm_HiHi_SP,75,Double
 0,Level5/Alarm_Hi_Alm,FALSE,Boolean
@@ -232,6 +244,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Pressure1/Min,0,Double
 0,Pressure1/SIM,FALSE,Boolean
 0,Pressure1/CAL,FALSE,Boolean
+0,Pressure1/Alarm_HiHi_Alm,FALSE,Boolean
+0,Pressure1/Alarm_HiHi_Delay,5,Double
 0,Pressure1/Alarm_HiHi_Enable,TRUE,Boolean
 0,Pressure1/Alarm_HiHi_SP,95,Double
 0,Pressure1/Alarm_Hi_Alm,FALSE,Boolean
@@ -251,6 +265,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Pressure2/Min,0,Double
 0,Pressure2/SIM,FALSE,Boolean
 0,Pressure2/CAL,FALSE,Boolean
+0,Pressure2/Alarm_HiHi_Alm,FALSE,Boolean
+0,Pressure2/Alarm_HiHi_Delay,5,Double
 0,Pressure2/Alarm_HiHi_Enable,TRUE,Boolean
 0,Pressure2/Alarm_HiHi_SP,80,Double
 0,Pressure2/Alarm_Hi_Alm,FALSE,Boolean
@@ -270,6 +286,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Pressure3/Min,0,Double
 0,Pressure3/SIM,FALSE,Boolean
 0,Pressure3/CAL,FALSE,Boolean
+0,Pressure3/Alarm_HiHi_Alm,FALSE,Boolean
+0,Pressure3/Alarm_HiHi_Delay,5,Double
 0,Pressure3/Alarm_HiHi_Enable,TRUE,Boolean
 0,Pressure3/Alarm_HiHi_SP,95,Double
 0,Pressure3/Alarm_Hi_Alm,FALSE,Boolean
@@ -289,6 +307,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Pressure4/Min,0,Double
 0,Pressure4/SIM,FALSE,Boolean
 0,Pressure4/CAL,FALSE,Boolean
+0,Pressure4/Alarm_HiHi_Alm,FALSE,Boolean
+0,Pressure4/Alarm_HiHi_Delay,5,Double
 0,Pressure4/Alarm_HiHi_Enable,TRUE,Boolean
 0,Pressure4/Alarm_HiHi_SP,60,Double
 0,Pressure4/Alarm_Hi_Alm,FALSE,Boolean
@@ -308,6 +328,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,Pressure5/Min,0,Double
 0,Pressure5/SIM,FALSE,Boolean
 0,Pressure5/CAL,FALSE,Boolean
+0,Pressure5/Alarm_HiHi_Alm,FALSE,Boolean
+0,Pressure5/Alarm_HiHi_Delay,5,Double
 0,Pressure5/Alarm_HiHi_Enable,TRUE,Boolean
 0,Pressure5/Alarm_HiHi_SP,90,Double
 0,Pressure5/Alarm_Hi_Alm,FALSE,Boolean
@@ -327,6 +349,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,ChemTank1/Min,0,Double
 0,ChemTank1/SIM,FALSE,Boolean
 0,ChemTank1/CAL,FALSE,Boolean
+0,ChemTank1/Alarm_HiHi_Alm,FALSE,Boolean
+0,ChemTank1/Alarm_HiHi_Delay,5,Double
 0,ChemTank1/Alarm_HiHi_Enable,TRUE,Boolean
 0,ChemTank1/Alarm_HiHi_SP,700,Double
 0,ChemTank1/Alarm_Hi_Alm,FALSE,Boolean
@@ -346,6 +370,8 @@ Time Interval, Browse Path, Value Source, Data Type
 0,ChemTank2/Min,0,Double
 0,ChemTank2/SIM,FALSE,Boolean
 0,ChemTank2/CAL,FALSE,Boolean
+0,ChemTank2/Alarm_HiHi_Alm,FALSE,Boolean
+0,ChemTank2/Alarm_HiHi_Delay,5,Double
 0,ChemTank2/Alarm_HiHi_Enable,TRUE,Boolean
 0,ChemTank2/Alarm_HiHi_SP,700,Double
 0,ChemTank2/Alarm_Hi_Alm,FALSE,Boolean
@@ -360,3 +386,24 @@ Time Interval, Browse Path, Value Source, Data Type
 0,ChemTank2/Alarm_LoLo_Delay,5,Double
 0,ChemTank2/Alarm_LoLo_Enable,TRUE,Boolean
 0,ChemTank2/Alarm_LoLo_SP,100,Double
+0,CL2_Analyzer/Value,"sine(.93,1.245,1000,true)",Double
+0,CL2_Analyzer/Max,5,Double
+0,CL2_Analyzer/Min,0,Double
+0,CL2_Analyzer/SIM,FALSE,Boolean
+0,CL2_Analyzer/CAL,FALSE,Boolean
+0,CL2_Analyzer/Alarm_HiHi_Alm,FALSE,Boolean
+0,CL2_Analyzer/Alarm_HiHi_Delay,5,Double
+0,CL2_Analyzer/Alarm_HiHi_Enable,TRUE,Boolean
+0,CL2_Analyzer/Alarm_HiHi_SP,2.5,Double
+0,CL2_Analyzer/Alarm_Hi_Alm,FALSE,Boolean
+0,CL2_Analyzer/Alarm_Hi_Delay,5,Double
+0,CL2_Analyzer/Alarm_Hi_Enable,TRUE,Boolean
+0,CL2_Analyzer/Alarm_Hi_SP,2,Double
+0,CL2_Analyzer/Alarm_Lo_Alm,FALSE,Boolean
+0,CL2_Analyzer/Alarm_Lo_Delay,5,Double
+0,CL2_Analyzer/Alarm_Lo_Enable,TRUE,Boolean
+0,CL2_Analyzer/Alarm_Lo_SP,0.5,Double
+0,CL2_Analyzer/Alarm_LoLo_Alm,FALSE,Boolean
+0,CL2_Analyzer/Alarm_LoLo_Delay,5,Double
+0,CL2_Analyzer/Alarm_LoLo_Enable,TRUE,Boolean
+0,CL2_Analyzer/Alarm_LoLo_SP,0.3,Double
